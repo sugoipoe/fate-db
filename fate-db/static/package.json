@@ -1,0 +1,19 @@
+{
+  "name": "fate-db",
+  "version": "1.0.0",
+  "description": "Fate Grand Order database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sugoipoe/fate-db.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sugoipoe/fate-db/issues"
+  },
+  "homepage": "https://github.com/sugoipoe/fate-db#readme"
+}
